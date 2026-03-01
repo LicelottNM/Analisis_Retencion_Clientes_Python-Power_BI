@@ -1,3 +1,5 @@
+![Dashboard](Dashboard.png)
+
 # Análisis de Retención de Clientes (Churn Strategy) 📉👥
 
 Este proyecto utiliza Business Intelligence para diagnosticar las causas de abandono de clientes en una empresa de servicios. El objetivo es identificar patrones críticos y proponer estrategias basadas en datos para maximizar la permanencia (LTV) y proteger los ingresos.
@@ -22,5 +24,4 @@ Este proyecto utiliza Business Intelligence para diagnosticar las causas de aban
 # 📂 Estructura del Repositorio
 * `Analisis_Retencion_Clientes.ipynb`: Notebook completo con limpieza, EDA y Machine Learning.
 * `Dashboard_Retencion.pbix`: Informe interactivo de Power BI.
-* `Dataset_Churn.csv`: Datos procesados.
-* `Visuals/`: Capturas del dashboard y métricas del modelo.
+* `Dataset_Churn.csv`: Dataset utilizado para el estudio.
